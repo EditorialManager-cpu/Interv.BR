@@ -1,0 +1,16 @@
+tipo,pergunta,opcao1,opcao2,opcao3,opcao4
+MC,Qual o tipo de estudo mais adequado para investigar a prevalência de uma doença em uma população?,Coorte,Caso-controle,Ensaio clínico,Transversal
+MC,Qual análise estatística é mais indicada para comparar médias de dois grupos independentes?,Qui-quadrado,ANOVA,Teste t de Student,Regressão logística
+MC,O que é um índice h?,Número de artigos publicados,Média de citações por artigo,Métrica de impacto combinando produtividade e citações,Taxa de rejeição de revista
+MC,Qual base de dados NÃO é um indexador científico?,Scopus,PubMed,Web of Science,ORCID
+MC,Qual dos seguintes NÃO é um indicador de qualidade de revista?,Fator de impacto,Altmetrics,Índice de endividamento,CiteScore
+MC,O que significa revisão por pares duplo-cega?,Autores não sabem quem revisa, revisores sabem os autores,Ambos, revisores e autores, não se identificam mutuamente,Revisores são externos ao corpo editorial,Revisores são pagos pela editora
+MC,Qual técnica de modelagem é usada para prever desfechos com múltiplas variáveis independentes?,ANOVA de uma via,Regressão múltipla,Qui-quadrado,Teste de Mann-Whitney
+MC,Para estudos clínicos randomizados, qual registro é obrigatório antes de recrutar participantes?,DOI,ORCID,ClinicalTrials.gov ou ReBEC,Scopus
+MC,Qual responsabilidade principal de um revisor científico?,Editar a gramática do artigo,Fazer análise estatística do artigo,Avaliar originalidade, qualidade metodológica e relevância,Divulgar resultados ao público
+MC,O que significa fator de impacto de 5 para uma revista?,Recebeu 5 submissões ao ano,Artigos publicados têm média de 5 citações no período considerado,É a quinta revista mais lida,Está na base SciELO
+AB,Descreva em poucas palavras a importância da reprodutibilidade em pesquisas em saúde.,,,,
+AB,Cite um exemplo de prática inadequada que compromete a qualidade de uma publicação científica.,,,,
+AB,Na sua experiência, como o revisor pode contribuir para reduzir viés em artigos científicos.,,,,
+AB,Qual critério você considera essencial para recomendar a rejeição de um manuscrito.,,,,
+AB,O que motiva você a integrar o corpo editorial de uma revista de impacto internacional.,,,,
